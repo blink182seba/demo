@@ -1,0 +1,127 @@
+body{
+	background-color: #eeeeee;
+
+}
+.margin{
+	background-color: white;
+	margin: auto;
+	width: 90%;
+	margin-top: 13%;
+	}
+span{
+	color: #e4654a;
+}
+.h2{
+	text-align: center;
+}
+#foto img{
+	border-radius: 50%;
+	display: block;
+	margin: 0 auto 0 auto;
+	transform: translateY(-110px);
+	max-width: 100%;
+}
+#foto{
+	height: 100px;
+}
+#line{
+	height: 2px;
+	width: 80%;
+	background-color: #eeeeee;
+	margin: auto;
+}
+.columna h2{
+	color: #e4654a;
+	padding-left: 20px;
+}
+.columna p{
+	padding-left: 10px;
+	padding-right: 20px;
+}
+.col-1{
+	display: table-cell;
+	width: 40%;
+}
+.col-2{
+	display: table-cell;
+	width: 30%;
+}
+.año{
+	float: left;
+	margin-top: 0px;
+}
+.arrow p{
+	padding: 0px;
+	display: inline;
+	text-align: justify;
+}
+.arrow{
+	display: inline;
+	width: 60%;
+	float: left;
+	background-color: #eeeeee;
+
+}
+.arrows{
+ position: relative;
+ margin-top: 30px;
+}
+.final{
+	padding: 5px 0px 5px 80%;
+}
+#line2{
+	height: 2px;
+	width: 100%;
+	background-color: #eeeeee;
+	margin: auto;
+	margin-top: 40px;
+}
+.barra1{
+	background-color: #e4654a;
+	color: white;
+	width: 70%;
+	height: 18px;
+}
+.barra2{
+	background-color: #e4654a;
+	color: white;
+	width: 60%;
+	height: 18px;
+}
+.barra3{
+	background-color: #e4654a;
+	color: white;
+	width: 50%;
+	height: 18px;
+}
+.barra4{
+	background-color: #e4654a;
+	color: white;
+	width: 40%;
+	height: 18px;
+}
+.barra5{
+	background-color: #e4654a;
+	color: white;
+	width: 30%;
+	height: 18px;
+}
+.barra h4{
+	margin-top: 5px;
+}
+.estrella{
+	color: #7E7E7C;
+	margin-bottom: 10px;
+	float: right;
+}
+.idiomas p{
+	display: inline-block;
+	margin: 10px 0px 0px 0px;
+	font-size: 20px;
+}
+.hobbies p{
+	display: inline-block;
+	background-color: #a55568;
+	padding: 10px;
+	margin-left: 3px;
+}
